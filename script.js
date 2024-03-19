@@ -6,16 +6,18 @@ document.addEventListener('DOMContentLoaded', () => {
     let cardsWon = [];
 
     const cardArray = [
-        { name: 'card1', img: 'images/distracted.png' },
-        { name: 'card1', img: 'images/distracted.png' },
-        { name: 'card2', img: 'images/drake.png' },
-        { name: 'card2', img: 'images/drake.png' },
-        { name: 'card3', img: 'images/fine.png' },
-        { name: 'card3', img: 'images/fine.png' },
-        { name: 'card4', img: 'images/rollsafe.png' },
-        { name: 'card4', img: 'images/rollsafe.png' },
-        { name: 'card5', img: 'images/success.png' },
-        { name: 'card5', img: 'images/success.png' },
+           { name: 'card1', img: 'images/20221024_075651.png' },
+        { name: 'card1', img: 'images/20221024_075651.png' },
+        { name: 'card2', img: 'images/20221107_162954.png' },
+        { name: 'card2', img: 'images/20221107_162954.png' },
+        { name: 'card3', img: 'images/20221218_160406.png' },
+        { name: 'card3', img: 'images/20221218_160406.png' },
+        { name: 'card4', img: 'images/1000042515.png' },
+        { name: 'card4', img: 'images/1000042515.png' },
+        { name: 'card5', img: 'images/IMG_0261.png' },
+        { name: 'card5', img: 'images/IMG_0261.png' },
+        { name: 'card6', img: 'images/20230203_165616.png' },
+        { name: 'card6', img: 'images/20230203_165616.png' },
         // ...add more pairs as needed
     ];
 
